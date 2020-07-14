@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi 👋👋
 
-<!--
-**rhuangabrielsantos/rhuangabrielsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Adventurer in the world of programming and I add some cool things here ⚡⚡
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://cdn.dicionariopopular.com/imagens/giphy-1.gif">
+  <br />
+  <br />
+  <strong>Maybe it's lost here 🤔, but enjoy and see some really cool little projects that I did</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me
+
+📌 [Linkedin](https://www.linkedin.com/in/rhuangabrielsantos)
+<br />
+👌 [CodePen](https://codepen.io/rhuangabrielsantos)
