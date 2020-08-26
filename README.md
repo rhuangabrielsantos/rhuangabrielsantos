@@ -9,6 +9,8 @@ Adventurer in the world of programming and I add some cool things here ⚡⚡
   <strong>Maybe it's lost here 🤔, but enjoy and see some really cool little projects that I did</strong>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuangabrielsantos&layout=compact)](https://github.com/rhuangabrielsantos)
+
 ### Find me
 
 📌 [Linkedin](https://www.linkedin.com/in/rhuangabrielsantos)
