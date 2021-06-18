@@ -3,7 +3,7 @@ name: generate animation
 on:
   schedule:
       # every 6 hours
-    - cron: "06 12 * * *"
+    - cron: "20 12 * * *"
 
 jobs:
   generate:
