@@ -13,8 +13,8 @@
 </p>
 
 - 🔭 I’m currently working on **DB1 Group**
-- 🌱 I’m currently learning **ReactJS, Next.JS, PHP**
-- 👨‍💻 All of my projects are available at [https://rhuangabrielsantos.github.io/portfolio/](https://rhuangabrielsantos.github.io/portfolio/)
+- 🌱 I’m currently learning **ReactJS, Next.JS, PHP and GO**
+- 👨‍💻 See my portfolio [https://rhuangabrielsantos.github.io/portfolio/](https://rhuangabrielsantos.github.io/portfolio/)
 
 <h3 align="left">Support:</h3>
 <p>
