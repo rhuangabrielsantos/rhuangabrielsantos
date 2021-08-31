@@ -2,16 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" align="center" />
 
-<h3 align="center">An adventurer in the world of programming</h3>
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rhuangabrielsantos&theme=dracula&hide_border=true" alt="rhuangabrielsantos" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rhuangabrielsantos&label=Profile%20views&color=0e75b6&style=flat" alt="rhuangabrielsantos" />
-</p>
-
 - 🔭 I’m currently working on **DB1 Group**
 - 🌱 I’m currently learning **ReactJS, Next.JS, PHP and GO**
 - 👨‍💻 See my portfolio [portfolio-rhuangabrielsantos.vercel.app/](https://portfolio-rhuangabrielsantos.vercel.app/)
@@ -20,5 +10,3 @@
 <p>
   <a href="https://www.buymeacoffee.com/rhuangabriel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rhuangabriel" /></a>
 </p>
-
-<br><br>
