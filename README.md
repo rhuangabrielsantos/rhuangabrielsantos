@@ -2,11 +2,4 @@
 
 <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" align="center" />
 
-- 🔭 I’m currently working on **DB1 Group**
-- 🌱 I’m currently learning **ReactJS, Next.JS, PHP and GO**
-- 👨‍💻 See my portfolio [portfolio-rhuangabrielsantos.vercel.app/](https://portfolio-rhuangabrielsantos.vercel.app/)
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/rhuangabriel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rhuangabriel" /></a>
-</p>
+![Metrics](https://metrics.lecoq.io/rhuangabrielsantos?template=classic&languages=1&followup=1&people=1&introduction=1&notable=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&notable.repositories=false&config.timezone=America%2FSao_Paulo)
