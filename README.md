@@ -2,4 +2,4 @@
 
 <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" align="center" />
 
-![Metrics](https://metrics.lecoq.io/rhuangabrielsantos?template=classic&languages=1&followup=1&people=1&introduction=1&notable=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&notable.repositories=false&config.timezone=America%2FSao_Paulo)
+![Metrics](https://github.com/rhuangabrielsantos/rhuangabrielsantos/blob/master/github-metrics.svg)
