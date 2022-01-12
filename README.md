@@ -3,6 +3,6 @@
 <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" align="center" />
 
 <div>
-  <img src="https://github.com/rhuangabrielsantos/rhuangabrielsantos/blob/master/github-metrics.svg" alt="metric's" />
-  <img src="https://api.daily.dev/devcards/9cb18fcfc9584928b9f307ea33040886.png?r=dk5" width="400" alt="Rhuan Santos's Dev Card" align="top" />
+  <img src="https://github.com/rhuangabrielsantos/rhuangabrielsantos/blob/master/github-metrics.svg" alt="metric's" width="400" />
+  <img src="https://github.com/rhuangabrielsantos/rhuangabrielsantos/blob/master/devcard.svg" width="400" alt="Rhuan Gabriel's Dev Card" align="top" />
 </div>
