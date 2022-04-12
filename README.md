@@ -3,7 +3,7 @@
 I've been a developer for 3 years, I started as a back-end developer and today I'm transitioning to a front-end developer.
 I am passionate about new technologies.
 
-I currently work at [DB1 Global Software](https://www.db1.com.br/) as a Developer.
+I currently work at [DB1 Global Software](https://www.db1.com.br/) as a Front-End Developer.
 
 
 ## My Technologies
