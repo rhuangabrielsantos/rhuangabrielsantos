@@ -23,7 +23,9 @@ I currently work at [DB1 Global Software](https://www.db1.com.br/) as a Front-En
 **Others Technologies I know**
 
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis)](https://skillicons.dev)
+
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" />
 </p>
