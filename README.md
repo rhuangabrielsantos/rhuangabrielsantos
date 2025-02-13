@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Rhuan</h1>
 
-I've been a developer for 5 years, I started as a back-end developer and today I'm transitioning to a front-end developer.
+I started my career as a developer in 2019 as a back-end developer and after a career transition I now work exclusively as a front-end developer
 I am passionate about new technologies.
 
-I currently work at [DB1 Global Software](https://www.db1.com.br/) as a Senior Front-end Developer.
+I currently work at [iFood](https://www.ifood.com.br/) as a Software Engineer.
 
 ## My Technologies
 
